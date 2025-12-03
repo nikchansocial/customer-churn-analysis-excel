@@ -1,4 +1,4 @@
-# Case Study: Analyzing Customer Churn in Excel
+# Case Study: Analyzing Customer Churn in Excel 
 
 This project is part of a DataCamp case study focused on analyzing customer churn for a fictional telecom company called **Databel**. The goal is to investigate churn behaviour, identify key drivers, and visualize insights through an Excel dashboard.
 
