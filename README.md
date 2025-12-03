@@ -1,4 +1,4 @@
-[Click here to view Dashboard](https://github.com/nikchansocial/customer-churn-analysis-excel)
+[Click here to view Dashboard](https://github.com/nikchansocial/customer-churn-analysis-excel/blob/45bbbf22f16bda83dff526aec8989575079e3e6e/Dashboard%20-%20Customer_Churn_Rate.xlsx)
 
 # Case Study: Analyzing Customer Churn in Excel 
 
