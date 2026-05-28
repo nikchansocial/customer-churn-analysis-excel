@@ -136,3 +136,9 @@ Project inspired and enhanced from the DataCamp guided case study.
 Nikhil Chandrakar
 
 Finance & Analytics Enthusiast
+
+LinkedIn:
+https://linkedin.com/in/nikchansocial
+
+GitHub:
+https://github.com/nikchansocial
