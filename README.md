@@ -61,7 +61,7 @@ The goal of this project is to analyze customer churn patterns and visualize act
 
 ## Dashboard Preview
 
-![Dashboard Preview](assets/dashboard-preview.png)
+![Dashboard Preview](reports/Dashboard - Customer_Churn_Rate.xlsx)
 
 ---
 
