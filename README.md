@@ -61,7 +61,7 @@ The goal of this project is to analyze customer churn patterns and visualize act
 
 ## Dashboard Preview
 
-![Dashboard Preview](reports/Dashboard - Customer_Churn_Rate.xlsx)
+[https://github.com/nikchansocial/customer-churn-analysis-excel/blob/main/reports/Dashboard%20-%20Customer_Churn_Rate.xlsx](https://github.com/nikchansocial/customer-churn-analysis-excel/blob/753bf6da790c67647686d3f7c889991427677a27/reports/Dashboard%20-%20Customer_Churn_Rate.xlsx)
 
 ---
 
