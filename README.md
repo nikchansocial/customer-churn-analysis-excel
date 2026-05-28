@@ -1,3 +1,7 @@
+![Excel](https://img.shields.io/badge/Tool-Excel-green)
+![Analytics](https://img.shields.io/badge/Domain-Analytics-blue)
+![Dashboard](https://img.shields.io/badge/Project-Dashboard-orange)
+![DataCamp](https://img.shields.io/badge/Source-DataCamp-red)
 # Customer Churn Analysis Dashboard (Excel)
 
 ## Overview
