@@ -2,7 +2,7 @@
 
 ![Tool](https://img.shields.io/badge/Tool-Excel-green)
 ![Domain](https://img.shields.io/badge/Domain-Business%20Analytics-orange)
-![Project](https://img.shields.io/badge/Project-DataCamp-red)
+![Project](https://img.shields.io/badge/Project-DataCamp-darkgreen)
 
 **A dashboard that tells a telecom which customers are leaving — and why.**
 
