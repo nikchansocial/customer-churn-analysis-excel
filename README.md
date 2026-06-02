@@ -43,12 +43,6 @@ Total customers, how many churned, and the headline churn rate sit on KPI cards 
 2. Open it in Excel (2016 or later).
 3. The **DASHBOARD** sheet is the main view — the other tabs hold the pivot tables behind it.
 
----
-
-## How it was built
-
-Microsoft Excel, start to finish — pivot tables and pivot charts feeding a single dashboard sheet, with KPI cards and segment breakdowns. Dataset is a 6,687-customer telecom set used for analytics practice; the approach started from a DataCamp case study and was rebuilt and extended into this dashboard.
-
 <details>
 <summary>Repository structure</summary>
 
