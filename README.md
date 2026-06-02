@@ -1,7 +1,7 @@
 # Customer Churn Analysis — Excel Dashboard
 
 ![Tool](https://img.shields.io/badge/Tool-Excel-darkgreen)
-![Domain](https://img.shields.io/badge/Domain-Business%20Analytics-cyan-blue)
+![Domain](https://img.shields.io/badge/Domain-Business%20Analytics-blue)
 ![Project](https://img.shields.io/badge/Project-DataCamp-lightgreen)
 
 **A dashboard that tells a telecom which customers are leaving — and why.**
